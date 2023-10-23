@@ -1,8 +1,8 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/boonemalay19/boonemalay19/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
+<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/530a6a01-8a0b-4ee1-a507-478448dfc41a)" />
 &nbsp;&nbsp;&nbsp;
 
-<p align="center">I ❤️ develop great solutions using programming. <br><br> focusing on Full Stack development, in addition to developing projects as a freelancer in the last few months, I now want to migrate completely to Front-End. My experience includes JavaScript Python, CSharp, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.</p>&nbsp;
+<p align="center">I develop great solutions using programming. <br><br> focusing on Full Stack development, in addition to developing projects as a freelancer in the last few months, I now want to migrate completely to Front-End. My experience includes JavaScript Python, CSharp, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=boonemalay19&theme=radical&mode=weekly" />
@@ -25,7 +25,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/d4aaef3c-7901-4dbd-b198-07876ffb7644)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Tecnologias Secundárias:
 
