@@ -68,6 +68,6 @@
 <br>
 </div>
 
-![snake gif](https://github.com/BooneMalay19/BooneMalay19/blob/output/github-contribution-grid-snake.gif)
+
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
