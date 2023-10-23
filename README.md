@@ -25,7 +25,7 @@
 ![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/d4aaef3c-7901-4dbd-b198-07876ffb7644)" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
+<img src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/ef8d5546-4b36-48d3-949a-e22eee8daf8a" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 #### Tecnologias Secundárias:
 
