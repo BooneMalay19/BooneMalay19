@@ -6,7 +6,7 @@
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BooneMalay19&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=boonemalay19&layout=compact&langs_count=8&card_width=320" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=BooneMalay19&layout=compact&langs_count=8&card_width=320" />
  </div>
  
  &nbsp;
