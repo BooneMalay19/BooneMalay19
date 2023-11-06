@@ -5,7 +5,7 @@
 <p align="center">I develop great solutions using programming. <br><br> focusing on Full Stack development, in addition to developing projects as a freelancer in the last few months, I now want to migrate completely to Front-End. My experience includes JavaScript Python, CSharp, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=boonemalay19&theme=radical&mode=weekly" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=BooneMalay19&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=boonemalay19&layout=compact" />
  </div>
  
