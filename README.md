@@ -4,7 +4,7 @@
 <p align="center">
    <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>
 </p>
-<p align="center">I develop great solutions using programming. <br><br> focusing on Full Stack development, in addition to developing projects as a freelancer in the last few months, I now want to migrate completely to Front-End. My experience includes JavaScript Python, CSharp, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.</p>&nbsp;
+<p align="center">Desenvolvo soluções ótimas utilizando programação. <br><br> com foco em desenvolvimento Full Stack, além de desenvolver projetos como freelancer nos últimos meses, quero agora migrar completamente para Front-End. Minha experiência inclui JavaScript Python, CSharp, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 
@@ -51,7 +51,7 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)&nbsp;
 
-#### Studying in this moment:
+#### Estudando neste momento:
 
 ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/kubernetes-4285F4?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
@@ -59,7 +59,7 @@
 &nbsp;
 &nbsp;
 
-## Contacts:
+## Contatos:
 
 <div> 
 <a href="https://www.instagram.com/BooneMalay" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
@@ -69,7 +69,7 @@
 <a href="https://linktr.ee/boonemalay1" target="_blank"><img src="https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white"  target="_blank"></a>
 
 <div align="center">
-<br><p align="centre"><b>Visitors Count</b></p>  
+<br><p align="centre"><b>Contador de Visitas</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/boonemalay19}/count.svg" /></p> 
 <br>
 </div>
