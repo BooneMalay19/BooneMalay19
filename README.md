@@ -20,7 +20,7 @@
 
 
 
-## My Skills
+## Minhas Habilidades
 
 #### Tecnologias Primárias:
 
