@@ -1,7 +1,9 @@
 
-<img align="center" style="margin-bottom:50px" width=100% src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/530a6a01-8a0b-4ee1-a507-478448dfc41a)" />
+<img align="center" style="margin-bottom:50px" width=1000%  src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/530a6a01-8a0b-4ee1-a507-478448dfc41a)" />
 &nbsp;&nbsp;&nbsp;
-
+<p align="center">
+   <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Español</a>
+</p>
 <p align="center">I develop great solutions using programming. <br><br> focusing on Full Stack development, in addition to developing projects as a freelancer in the last few months, I now want to migrate completely to Front-End. My experience includes JavaScript Python, CSharp, C++, React.js, Vue.js, Bootstrap, Linux, Windows Server, Photoshop, Figma, Office.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
@@ -9,7 +11,9 @@
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=boonemalay19&theme=radical&mode=weekly" />
 <img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&layout=compact" />
  </div>
-
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=dracula&column=6&row=1&margin-w=10" alt="Troféus do Github" />
+</p>
  
  &nbsp;
  &nbsp;
@@ -54,10 +58,6 @@
 
 &nbsp;
 &nbsp;
-
-<p align="center">
-   <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=dracula&column=6&row=1&margin-w=10" alt="Troféus do Github" />
-</p>
 
 ## Contacts:
 
