@@ -55,6 +55,10 @@
 &nbsp;
 &nbsp;
 
+<p align="center">
+   <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=dracula&column=6&row=1&margin-w=10" alt="Troféus do Github" />
+</p>
+
 ## Contacts:
 
 <div> 
