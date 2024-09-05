@@ -8,8 +8,8 @@
 
 <div  align="center" style="margin-bottom:100px">
 
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=boonemalay19&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&layout=compact" />
+<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=boonemlay19&theme=radical&mode=weekly" />
+<img width=40% align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMaly19&layout=compact" />
  </div>
 <p align="center">
    <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=dracula&column=6&row=1&margin-w=10" alt="Troféus do Github" />
