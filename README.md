@@ -18,7 +18,6 @@
  &nbsp;
 
 
-
 ## Minhas Habilidades
 
 #### Tecnologias Primárias:
