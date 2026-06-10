@@ -91,6 +91,23 @@
   <p><i>Validando sempre minhas competências em infraestrutura de rede e segurança da informação.</i></p>
 </div>
 
+## 📜 Trajetória Profissional
+
+<div align="center">
+  <div style="position: relative; display: inline-block;">
+    <img src="Assets/1781113709113.png" width="700" />
+    <div style="position: absolute; top: 25%; left: 0; width: 100%; text-align: center; color: #2e2e2e;">
+      <h2 style="margin: 0; font-family: serif;">Santander Brasil</h2>
+      <p style="font-size: 1.2em; margin: 10px 0;"><b>Data Analyst | Professional</b></p>
+      <p style="font-size: 1em;"><b>Período:</b> Janeiro/2025 – Presente</p>
+      <p style="font-size: 0.9em; font-style: italic; max-width: 80%; margin: 10px auto;">
+        Responsável pela automação de fluxos de dados, estruturação de soluções em BI 
+        e suporte analítico para operações financeiras críticas.
+      </p>
+    </div>
+  </div>
+</div>
+
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=88">
