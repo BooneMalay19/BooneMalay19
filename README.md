@@ -1,9 +1,8 @@
-<!-- Banner de Capa -->
+
 <p align="center">
   <img align="center" src="Assets/IMG_20260610_133207.png" width=800 />
 </p>
 
-<!-- Frase de Efeito (Typing Effect) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Turning+raw+data+into+strategic+wisdom!" alt="Typing SVG" />
@@ -18,7 +17,6 @@
   <b>Data Analyst | Data Engineering Enthusiast</b>
 </p>
 
-<!-- Texto Aprimorado -->
 <div align="center">
   <p>
     Sou um profissional movido pela capacidade de extrair inteligência de sistemas complexos. Com sólida bagagem no setor financeiro (Santander), minha atuação é focada na interseção entre a <b>Engenharia de Dados</b> e a <b>Tomada de Decisão Estratégica</b>. <br>
@@ -83,7 +81,6 @@
   </tr>
 </table>
 
-<!-- Mantido o link original do troféu como você pediu -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=BooneMalay19&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100% alt="BooneMalay19" />
