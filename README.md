@@ -19,8 +19,9 @@
 
 <div align="center">
   <p>
-    Sou um profissional movido pela capacidade de extrair inteligência de sistemas complexos. Com sólida bagagem no setor financeiro (Santander), minha atuação é focada na interseção entre a <b>Engenharia de Dados</b> e a <b>Tomada de Decisão Estratégica</b>. <br>
-    Minha missão é clara: automatizar fluxos de dados manuais, otimizar a infraestrutura de análise e entregar dashboards que não apenas mostram números, mas contam a história do negócio.
+    Movido por desafios relacionados a dados, automação e tecnologia, atuo na criação de soluções que transformam informações em decisões estratégicas. Minha experiência inclui análise de dados, desenvolvimento de dashboards, automação de processos e suporte à tomada de decisão em ambiente corporativo de grande porte.
+Com conhecimentos em Python, SQL, Power BI, Databricks e infraestrutura de TI, busco evoluir continuamente nas áreas de Dados, Analytics, Engenharia de Dados e Cybersegurança. Tenho interesse em construir pipelines de dados, automatizar fluxos de informação e desenvolver soluções escaláveis e seguras que gerem impacto real para o negócio.
+Meu objetivo é utilizar tecnologia para simplificar processos complexos, aumentar a eficiência operacional e apoiar organizações por meio de uma cultura orientada a dados, inovação e melhoria contínua.
   </p>
 </div>
 
