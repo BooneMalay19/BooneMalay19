@@ -145,12 +145,6 @@ Meu objetivo é utilizar tecnologia para simplificar processos complexos, aument
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-<h1 align="center">Pedro Brito</h1>
-
-<p align="center">
-  Data Analyst • Automation • Business Intelligence
-</p>
-
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F71414&width=435&lines=%E5%A4%89%E5%8C%96%E3%81%AF%E3%80%81%E7%B6%99%E7%B6%9A%E7%9A%84%E3%81%AA%E5%8A%AA%E5%8A%9B%E3%81%A8%E5%89%8D%E4%BE%8B%E3%81%AE%E3%81%AA%E3%81%84%E3%83%AC%E3%83%99%E3%83%AB%E3%81%AE%E7%8C%AE%E8%BA%AB%E3%81%AA%E3%81%97%E3%81%AB%E3%81%AF%E8%B5%B7%E3%81%93%E3%82%8A%E5%BE%97%E3%81%AA%E3%81%84%E3%80%82" alt="Typing SVG" />
