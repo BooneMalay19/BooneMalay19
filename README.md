@@ -12,26 +12,36 @@
 </p>
 
 <div align="center">
-  <p>Experiência prática com análise de dados, pipelines de automação e desenvolvimento de dashboards corporativos em ambiente de grande porte (Santander). Focado em extrair valor de dados brutos para otimização operacional.</p>
+  <p>Profissional em início de carreira com experiência no Santander, focado em análise de dados, automação de processos e desenvolvimento de dashboards corporativos. Especialista em transformar dados brutos em soluções escaláveis e eficientes.</p>
 </div>
 
 &nbsp;
 
 ## 🛠 Habilidades Técnicas
 
-#### Dados & Analytics:
+#### Linguagens & Dados:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)&nbsp;
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)&nbsp;
+
+#### BI & Analytics:
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)&nbsp;
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)&nbsp;
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)&nbsp;
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)&nbsp;
-![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
+![Scikit-Learn](https://img.shields.io/badge/Scikit_Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)&nbsp;
 
-#### Engenharia & Infraestrutura:
+#### Ferramentas & Infraestrutura:
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)&nbsp;
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)&nbsp;
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D6?style=for-the-badge&logo=windows&logoColor=white)&nbsp;
+![Zabbix](https://img.shields.io/badge/Zabbix-0099CC?style=for-the-badge&logo=zabbix&logoColor=white)&nbsp;
+![SharePoint](https://img.shields.io/badge/SharePoint-0078D4?style=for-the-badge&logo=sharepoint&logoColor=white)&nbsp;
 ![REST APIs](https://img.shields.io/badge/REST_APIs-005C84?style=for-the-badge&logo=openapi-initiative&logoColor=white)&nbsp;
 
 &nbsp;
