@@ -125,7 +125,7 @@ Meu objetivo é utilizar tecnologia para simplificar processos complexos, aument
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=BooneMalay19&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100% alt="BooneMalay19" />
+    <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=dark_lover" />
   </a> 
 </p>
 
