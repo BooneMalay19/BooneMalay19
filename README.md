@@ -50,10 +50,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&layout=compact&theme=dracula" />
   <br><br>
-  <a href="https://github.com/BooneMalay19/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=aura" alt="Troféus do Github" />
-  </a>
-</div>
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><imgsrc="https://github-profile-trophy-sigma-one.vercel.app/?username=namankoolwal&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%alt="namankoolwal"/></a></p></div>
 
 &nbsp;
 
