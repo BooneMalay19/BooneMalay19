@@ -3,10 +3,10 @@
   <img align="center" src="Assets/IMG_20260610_133207.png" width=800 />
 </p>
 
-<!-- Título Animado -->
+<!-- Frase de Efeito (Typing Effect) -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Turning+raw+data+into+wisdom!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Turning+raw+data+into+strategic+wisdom!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -18,16 +18,18 @@
   <b>Data Analyst | Data Engineering Enthusiast</b>
 </p>
 
+<!-- Texto Aprimorado -->
 <div align="center">
   <p>
-    Especialista em Dados em início de carreira, com sólida vivência no setor financeiro (Santander). Minha atuação é pautada na interseção entre <b>Engenharia de Dados</b> e <b>Inteligência de Negócios</b>, transformando grandes volumes de dados brutos em ativos estratégicos. Sou movido por desafios que envolvem automação de processos complexos, arquitetura de soluções escaláveis e o desenvolvimento de dashboards que orientam decisões críticas.
+    Sou um profissional movido pela capacidade de extrair inteligência de sistemas complexos. Com sólida bagagem no setor financeiro (Santander), minha atuação é focada na interseção entre a <b>Engenharia de Dados</b> e a <b>Tomada de Decisão Estratégica</b>. <br>
+    Minha missão é clara: automatizar fluxos de dados manuais, otimizar a infraestrutura de análise e entregar dashboards que não apenas mostram números, mas contam a história do negócio.
   </p>
 </div>
 
 &nbsp;
 
 ## 🛠 Habilidades Técnicas
-<i>Meu stack tecnológico é escolhido para garantir eficiência no ciclo completo do dado: da ingestão e tratamento até a visualização e análise preditiva.</i>
+<i>"Meu stack tecnológico é orquestrado para suportar todo o ciclo de vida do dado: da ingestão robusta ao processamento em larga escala e visualização de alta performance."</i>
 
 #### Linguagens & Dados:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -67,23 +69,15 @@
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Github Stats" />
     </td>
     <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=BooneMalay19&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BooneMalay19&theme=dark&hide_border=false" alt="Github Stats" />
     </td>
   </tr>
 </table>
 
+<!-- Mantido o link original do troféu como você pediu -->
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=BooneMalay19&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100% alt="BooneMalay19" />
@@ -92,7 +86,7 @@
 
 &nbsp;
 
-## 📬 Vamos conversar?
+## 📬 Vamos trocar uma ideia?
 <div align="center">
   <a href="https://www.linkedin.com/in/boonemalay/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:boonemalay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
