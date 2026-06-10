@@ -123,7 +123,9 @@ Meu objetivo é utilizar tecnologia para simplificar processos complexos, aument
   </tr>
 </table>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BooneMalay19&theme=date_night)
+<p align="center">
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BooneMalay19&theme=date_night" />
+</p>
 
 &nbsp;
 
