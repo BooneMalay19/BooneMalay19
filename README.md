@@ -95,7 +95,7 @@
 
 <div align="center">
   <div style="position: relative; display: inline-block;">
-    <img src="Assets/1000613926-removebg-preview.png" width="700" />
+    <img src="Assets/1000613926-removebg-preview.png" width="300" />
     <div style="position: absolute; top: 25%; left: 0; width: 100%; text-align: center; color: #2e2e2e;">
       <h2 style="margin: 0; font-family: serif;">Santander Brasil</h2>
       <p style="font-size: 1.2em; margin: 10px 0;"><b>Data Analyst | Professional</b></p>
