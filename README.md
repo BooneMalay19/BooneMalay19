@@ -6,7 +6,7 @@
 <!-- Título Animado -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Pedro+Brito!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Turning+raw+data+into+wisdom!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -63,21 +63,30 @@
 
 &nbsp;
 
-## 📈 Estatísticas & Conquistas
+## 📈 Estatísticas
 <table>
   <tr>
     <td>
-      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens" />
+      <img
+        align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
+        alt="Github Stats"
+      />
     </td>
     <td>
-      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BooneMalay19&theme=dark&hide_border=false" alt="Streak" />
+      <br />
+      <img
+        align="left"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=BooneMalay19&theme=dark&hide_border=false"
+        alt="Github Stats"
+      />
     </td>
   </tr>
 </table>
 
 <p align="center"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=aura&no-bg=true&no-frame=false&margin-w=4" alt="BooneMalay19" />
+    <img src="https://github-profile-trophy-sigma-one.vercel.app/?username=BooneMalay19&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100% alt="BooneMalay19" />
   </a> 
 </p>
 
