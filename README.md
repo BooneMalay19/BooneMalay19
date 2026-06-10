@@ -88,7 +88,7 @@
     </tr>
   </table>
   
-  <p><i>Validando competências em infraestrutura de rede e segurança da informação.</i></p>
+  <p><i>Validando sempre minhas competências em infraestrutura de rede e segurança da informação.</i></p>
 </div>
 
 <div align="center">
