@@ -1,23 +1,33 @@
+<!-- Banner de Capa -->
 <p align="center">
   <img align="center" src="Assets/IMG_20260610_133207.png" width=800 />
 </p>
+
+<!-- Título Animado -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=F7EEE5&center=true&width=535&lines=Hi+%F0%9F%91%8B%2C+I'm+Pedro+Brito!" alt="Typing SVG" />
+  </a>
+</div>
 
 <p align="center">
    <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Spanish</a>
 </p>
 
 <p align="center">
-  <b>Data Analyst | Data Engineering Enthusiast</b><br>
-  Transformando dados em decisões estratégicas através de automação e análise inteligente.
+  <b>Data Analyst | Data Engineering Enthusiast</b>
 </p>
 
 <div align="center">
-  <p>Profissional em início de carreira com experiência no Santander, focado em análise de dados, automação de processos e desenvolvimento de dashboards corporativos. Especialista em transformar dados brutos em soluções escaláveis e eficientes.</p>
+  <p>
+    Especialista em Dados em início de carreira, com sólida vivência no setor financeiro (Santander). Minha atuação é pautada na interseção entre <b>Engenharia de Dados</b> e <b>Inteligência de Negócios</b>, transformando grandes volumes de dados brutos em ativos estratégicos. Sou movido por desafios que envolvem automação de processos complexos, arquitetura de soluções escaláveis e o desenvolvimento de dashboards que orientam decisões críticas.
+  </p>
 </div>
 
 &nbsp;
 
 ## 🛠 Habilidades Técnicas
+<i>Meu stack tecnológico é escolhido para garantir eficiência no ciclo completo do dado: da ingestão e tratamento até a visualização e análise preditiva.</i>
 
 #### Linguagens & Dados:
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -53,30 +63,27 @@
 
 &nbsp;
 
-## 📈 Estatísticas
+## 📈 Estatísticas & Conquistas
 <table>
   <tr>
     <td>
-      <img
-        align="left"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact"
-        alt="Github Stats"
-      />
+      <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Linguagens" />
     </td>
     <td>
-      <br />
-      <img
-        align="left"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=BooneMalay19&theme=dark&hide_border=false"
-        alt="Github Stats"
-      />
+      <img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=BooneMalay19&theme=dark&hide_border=false" alt="Streak" />
     </td>
   </tr>
 </table>
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-sigma-one.vercel.app/?username=BooneMalay19&theme=discord&no-bg=true&no-frame=false&margin-w=4" width=200% height=100%  alt="namankoolwal" /></a> </p>
+
+<p align="center"> 
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=aura&no-bg=true&no-frame=false&margin-w=4" alt="BooneMalay19" />
+  </a> 
+</p>
+
 &nbsp;
 
-## 📬 Contatos
+## 📬 Vamos conversar?
 <div align="center">
   <a href="https://www.linkedin.com/in/boonemalay/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="mailto:boonemalay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
