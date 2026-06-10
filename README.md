@@ -70,7 +70,7 @@
   <table style="border:none;">
     <tr>
       <td align="center" style="padding: 15px;">
-        <img src="Badges/CCNAITN_1.png" width="140" alt="CCNA" style="border-radius: 10px; transition: transform 0.2s;" />
+        <img src="Badges/CCNAITN__1_.png" width="140" alt="CCNA" style="border-radius: 10px; transition: transform 0.2s;" />
         <p><b>CCNA</b></p>
       </td>
       <td align="center" style="padding: 15px;">
