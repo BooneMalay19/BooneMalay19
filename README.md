@@ -106,7 +106,7 @@
 
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
-        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=88">
+        <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E3%81%93%E3%82%93%E3%81%AB%E3%81%A1%E3%81%AF%E4%B8%96%E7%95%8C!&l0=000000&l1=ff0000&l2=f44336&l3=c62828&l4=b71c1c&speed=170&comment=Boone%20Boom%20Boon">
   </a>
 </div>
 
