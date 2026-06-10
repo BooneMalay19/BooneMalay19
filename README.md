@@ -26,7 +26,7 @@
 
 &nbsp;
 
-## 🛠 Habilidades Técnicas
+## ⛩️ Habilidades Técnicas
 <i>"Meu stack tecnológico é orquestrado para suportar todo o ciclo de vida do dado: da ingestão robusta ao processamento em larga escala, visualização e virtualização de alta performance."</i>
 
 #### Linguagens & Dados:
