@@ -1,5 +1,5 @@
 <p align="center">
-  <img align="center" src="https://github.com/BooneMalay19/BooneMalay19/assets/144711331/530a6a01-8a0b-4ee1-a507-478448dfc41a" width=800 />
+  <img align="center" src="https://github.com/BooneMalay19/BooneMalay19/Assets/IMG_20260610_133207.png" width=800 />
 </p>
 
 <p align="center">
