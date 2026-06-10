@@ -152,4 +152,4 @@ Meu objetivo é utilizar tecnologia para simplificar processos complexos, aument
 </p>
 
 <br>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=300&color=ff0000&descAlign=15&descAlignY=100&section=footer"/>
