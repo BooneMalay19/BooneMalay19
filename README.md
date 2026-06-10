@@ -63,6 +63,34 @@
 
 &nbsp;
 
+## Badges
+
+<div align="center">
+  
+  <table style="border:none;">
+    <tr>
+      <td align="center" style="padding: 15px;">
+        <img src="Badges/CCNAITN_1.png" width="140" alt="CCNA" style="border-radius: 10px; transition: transform 0.2s;" />
+        <p><b>CCNA</b></p>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="Badges/CyberEssentials.png" width="140" alt="Cyber Essentials" style="border-radius: 10px;" />
+        <p><b>Cyber Essentials</b></p>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="Badges/EndpointSecurity.png" width="140" alt="Endpoint Security" style="border-radius: 10px;" />
+        <p><b>Endpoint Security</b></p>
+      </td>
+      <td align="center" style="padding: 15px;">
+        <img src="Badges/NetworkingEssentials-01.png" width="140" alt="Networking Essentials" style="border-radius: 10px;" />
+        <p><b>Network Essentials</b></p>
+      </td>
+    </tr>
+  </table>
+  
+  <p><i>Validando competências em infraestrutura de rede e segurança da informação.</i></p>
+</div>
+
 <div align="center">
   <a href="https://github.com/kawarimidoll/typograssy">
         <img alt="typograssy" src="https://typograssy.deno.dev/api?text=%E7%8B%82%E4%B9%B1%E3%81%8C%E5%A7%8B%E3%81%BE%E3%81%A3%E3%81%9F%E3%80%82&l0=000000&l1=c00785&l2=760878&l3=5d41aa&l4=3511b6&bg=030303&frame=b8a8a8&speed=88">
