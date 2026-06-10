@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-   <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a>
+   <a href="README.md"><u><b>Português</b></u></a> | <a href="README_en.md">English</a> | <a href="README_es.md">Spanish</a>
 </p>
 
 <p align="center">
