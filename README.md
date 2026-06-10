@@ -50,7 +50,9 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BooneMalay19&layout=compact&theme=dracula" />
   <br><br>
-  <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=dracula&column=6&row=1" alt="Troféus" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=BooneMalay19&theme=aura" alt="Troféus do Github" />
+  </a>
 </div>
 
 &nbsp;
@@ -58,7 +60,7 @@
 ## 📬 Contatos
 <div align="center">
   <a href="https://www.linkedin.com/in/boonemalay/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://github-profile-trophy.vercel.app/?BooneMalay19=ryo-ma&theme=aura"></a>
+  <a href="mailto:boonemalay@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
 
 <br>
